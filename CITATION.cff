@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Codes of "Genetically-Inspired Optimization of Motor
+  Control Strategies During Continuous 3D Upper-Limb
+  Movements"
+message: 'If you use this code, please cite it as below.'
+type: software
+authors:
+  - given-names: 'Mateus S. '
+    family-names: Silva
+    email: silvams.br@gmail.com
+    affiliation: Universidade Federal da Bahia
+    orcid: 'https://orcid.org/0000-0002-3022-3550'
+  - given-names: José Garcia V.
+    family-names: Miranda
+    email: vivas@ufba.br
+    affiliation: Universidade Federal da Bahia
+    orcid: 'https://orcid.org/0000-0002-7752-8319'
